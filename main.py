@@ -7,8 +7,8 @@
 # Date Last Edited: Dec 3, 2021
 # Description: Final Project
 
-import cmpt120imageProjHelper as ph
-import cmpt120imageManip as m
+import imageProjHelper as ph
+import imageManip as m
 import tkinter
 import tkinter.filedialog
 import pygame
